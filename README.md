@@ -25,8 +25,8 @@ db.host=10.144.1.2
 db.port=1521
 db.service=orcl
 #db.sid=orcl
-db.username=test1
-db.password=test2026
+db.username=your_username
+db.password=your_password
 db.driver=oracle.jdbc.driver.OracleDriver
 ```
 
