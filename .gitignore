@@ -14,6 +14,9 @@ bin/
 .project
 .classpath
 .factorypath
+eclipse-workspace.xml
+build.xml
+MANIFEST.MF
 
 # OS generated files
 .DS_Store
